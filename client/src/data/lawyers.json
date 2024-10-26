@@ -1,0 +1,60 @@
+{
+  "detail": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "specialization": "Criminal Law",
+      "experience": 10,
+      "contact": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "specialization": "Family Law",
+      "experience": 8,
+      "contact": "jane@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Robert Brown",
+      "specialization": "Corporate Law",
+      "experience": 12,
+      "contact": "robert@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "specialization": "Environmental Law",
+      "experience": 5,
+      "contact": "emily@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Michael Wilson",
+      "specialization": "Intellectual Property Law",
+      "experience": 7,
+      "contact": "michael@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Johnson",
+      "specialization": "Labor Law",
+      "experience": 9,
+      "contact": "sarah@example.com"
+    },
+    {
+      "id": 7,
+      "name": "David Lee",
+      "specialization": "Tax Law",
+      "experience": 11,
+      "contact": "david@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Laura Martinez",
+      "specialization": "Immigration Law",
+      "experience": 6,
+      "contact": "laura@example.com"
+    }
+  ]
+}
